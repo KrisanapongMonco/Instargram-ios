@@ -27,7 +27,7 @@
 * **Logging in and logging out**
 
 ## Vedio
-[![Video Title]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://i.ytimg.com/an_webp/6t2tRGZoQyA/mqdefault_6s.webp?du=3000&sqp=CIC0gb4G&rs=AOn4CLACHgqO72Bm91_HXbkMqwMyWw3eoQ))]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/6t2tRGZoQyA?si=anDPBRjGju22WNo1))
+https://youtu.be/6t2tRGZoQyA?si=pHhvQTY8V4KP_0Z3
 
 ## Exanple
 ![image](https://github.com/user-attachments/assets/3c17282f-af05-4326-bbe5-6fb967c9458a)![image](https://github.com/user-attachments/assets/fe24f826-4dae-452d-8d8f-0cb77e12fc59)
